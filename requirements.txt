@@ -1,0 +1,5 @@
+trl
+peft
+bitsandbytes
+sentencepiece
+scipy
